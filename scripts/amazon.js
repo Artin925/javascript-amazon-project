@@ -23,7 +23,7 @@ products.forEach((product) => {
         </div>
       </div>
 
-      <div class="product-price">${product.getPrice()} </div>
+      <div class="product-price"> </div>
 
       <div class="product-quantity-container">
         <select>
